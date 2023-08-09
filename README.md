@@ -1,7 +1,7 @@
 ![](https://github.com/miltonsito/Proyecto-extraccion-de-datos-Youtube/blob/main/imag1.jpg)
 ### Hola!!
 
-Bienvenidos mi Proyecto personal, en donde cubriremos una necesidad muy rutinaria en la labor de los ingenieros de datos, porque realizamos extracciones diarias de 
+Bienvenidos a mi Proyecto personal, en donde cubriremos una necesidad muy rutinaria en la labor de los ingenieros de datos, porque realizamos extracciones diarias de 
 los datos de diferentescanales de YouTube.
 
 Por lo general nosotros extraemos información de nuestro canal Youtube (si lo tienen), pero en este caso planteamos la necesidad de analizar otros canales,
